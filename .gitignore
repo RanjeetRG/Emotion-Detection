@@ -1,0 +1,8 @@
+﻿torch_env/
+tf_gpu_env/
+__pycache__/
+*.pyc
+build/
+dist/
+affectnet_data/
+fer2013_data/
